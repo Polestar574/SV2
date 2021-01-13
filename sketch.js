@@ -70,7 +70,7 @@ function draw() {
     fill("yellow");
     text("CONTROLS",708,110);
     fill("white");
-    text("S-for shooting",700,140);
+    text("Right Arrow -for shooting",700,140);
     
   }
 }
